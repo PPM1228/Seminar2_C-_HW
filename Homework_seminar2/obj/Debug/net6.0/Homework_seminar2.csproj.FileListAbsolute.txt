@@ -1,0 +1,15 @@
+/Users/philipp/Desktop/Git_Seminars/Seminar2_C#_HW/Homework_seminar2/obj/Debug/net6.0/Homework_seminar2.csproj.AssemblyReference.cache
+/Users/philipp/Desktop/Git_Seminars/Seminar2_C#_HW/Homework_seminar2/obj/Debug/net6.0/Homework_seminar2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/philipp/Desktop/Git_Seminars/Seminar2_C#_HW/Homework_seminar2/obj/Debug/net6.0/Homework_seminar2.AssemblyInfoInputs.cache
+/Users/philipp/Desktop/Git_Seminars/Seminar2_C#_HW/Homework_seminar2/obj/Debug/net6.0/Homework_seminar2.AssemblyInfo.cs
+/Users/philipp/Desktop/Git_Seminars/Seminar2_C#_HW/Homework_seminar2/obj/Debug/net6.0/Homework_seminar2.csproj.CoreCompileInputs.cache
+/Users/philipp/Desktop/Git_Seminars/Seminar2_C#_HW/Homework_seminar2/bin/Debug/net6.0/Homework_seminar2
+/Users/philipp/Desktop/Git_Seminars/Seminar2_C#_HW/Homework_seminar2/bin/Debug/net6.0/Homework_seminar2.deps.json
+/Users/philipp/Desktop/Git_Seminars/Seminar2_C#_HW/Homework_seminar2/bin/Debug/net6.0/Homework_seminar2.runtimeconfig.json
+/Users/philipp/Desktop/Git_Seminars/Seminar2_C#_HW/Homework_seminar2/bin/Debug/net6.0/Homework_seminar2.dll
+/Users/philipp/Desktop/Git_Seminars/Seminar2_C#_HW/Homework_seminar2/bin/Debug/net6.0/Homework_seminar2.pdb
+/Users/philipp/Desktop/Git_Seminars/Seminar2_C#_HW/Homework_seminar2/obj/Debug/net6.0/Homework_seminar2.dll
+/Users/philipp/Desktop/Git_Seminars/Seminar2_C#_HW/Homework_seminar2/obj/Debug/net6.0/refint/Homework_seminar2.dll
+/Users/philipp/Desktop/Git_Seminars/Seminar2_C#_HW/Homework_seminar2/obj/Debug/net6.0/Homework_seminar2.pdb
+/Users/philipp/Desktop/Git_Seminars/Seminar2_C#_HW/Homework_seminar2/obj/Debug/net6.0/Homework_seminar2.genruntimeconfig.cache
+/Users/philipp/Desktop/Git_Seminars/Seminar2_C#_HW/Homework_seminar2/obj/Debug/net6.0/ref/Homework_seminar2.dll
